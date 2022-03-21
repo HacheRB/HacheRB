@@ -14,12 +14,9 @@
 <h3 align="center">About me</h3>
 <hr>
 
-I'm a Full Stack Web Developer focusing on the **MERN** Stack, currently living in Gran Canaria, Spain.
+I'm a Full Stack Web Developer focusing on **Next.js** and the **MERN** Stack, currently living in Las Palmas de Gran Canaria, Spain.
 
 I'm passionnate about technology and highly motivated to keep improving my coding habilities.
-
-Able to work remotely or relocate.
-
 
 <h3 align="center">Skills</h3>
 <hr>
