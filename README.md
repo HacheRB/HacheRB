@@ -56,8 +56,6 @@ I'm passionnate about technology and highly motivated to keep improving my codin
 #### Learning 
 <div align="center">  
 	<img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" height="35" />  &nbsp;&nbsp;
-	<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" height="35" />  &nbsp;&nbsp;
-	<img src="https://cdn.svgporn.com/logos/socket.io.svg" alt="Socket.io" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" height="35" />  &nbsp;&nbsp;
 </div>
 
