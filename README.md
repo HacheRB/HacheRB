@@ -12,14 +12,12 @@
 
 <h3 align="center">About me</h3>
 <hr>
-
 I'm a Full Stack Web Developer focusing on **Next.js** and the **MERN** Stack, currently living in Las Palmas de Gran Canaria, Spain.
 
 I'm passionnate about technology and highly motivated to keep improving my coding habilities.
 
 <h3 align="center">Skills</h3>
 <hr>
-
 #### Backend  
 <div align="center">  
 	<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="35" />  &nbsp;&nbsp;
@@ -54,13 +52,10 @@ I'm passionnate about technology and highly motivated to keep improving my codin
 	<img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="Postman" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="35" />  &nbsp;&nbsp;
 </div>
-
-<br>
 <br>
 
 <h3 align="center">Github Stats<h3> 
 <hr>
-<br>
 <div align="center" justify="center">  
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacherb&layout=compact&theme=github_dark" />
 </div>
