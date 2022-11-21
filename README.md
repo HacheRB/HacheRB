@@ -18,6 +18,7 @@ I'm passionnate about technology and highly motivated to keep improving my codin
 
 <h3 align="center">Skills</h3>
 <hr>
+
 #### Backend  
 <div align="center">  
 	<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="35" />  &nbsp;&nbsp;
