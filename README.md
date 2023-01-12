@@ -49,7 +49,7 @@ I'm passionnate about technology and highly motivated to keep improving my codin
 	<img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Github" height="35" />  &nbsp;&nbsp;
-	<img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="35" />  &nbsp;&nbsp;
+	<img src="https://asset.brandfetch.io/idAnDTFapY/idG4aRyg5R.svg?updated=1669900249741" alt="Miro" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="Postman" height="35" />  &nbsp;&nbsp;
 	<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="Visual Studio Code" height="35" />  &nbsp;&nbsp;
 </div>
@@ -58,11 +58,11 @@ I'm passionnate about technology and highly motivated to keep improving my codin
 <h3 align="center">Github Stats<h3> 
 <hr>
 <div align="center" justify="center">  
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacherb&layout=compact&theme=github_dark" />
+	<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hacherb&layout=compact&theme=github_dark" />
 </div>
 <br>
 <div align="center" justify="center">  
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacherb&show_icons=true&hide=issues&theme=github_dark" />
+	<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hacherb&show_icons=true&hide=issues&theme=github_dark" />
 </div>
 <br>
 <div align="center" justify="center">  
