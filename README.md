@@ -6,9 +6,6 @@
 	<a target="_blank" href="https://www.linkedin.com/in/hacherb/"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" height="27"/></a>  &nbsp;&nbsp;
 	<a target="_blank" href="mailto:info@hacherb.dev"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" height="27"/></a>
 </p>
-<p align="center">
-	 <a target="_blank" href="https://www.codewars.com/users/HacheRB"><img src="https://www.codewars.com/users/HacheRB/badges/small"/></a> 
-</p>
 
 <h3 align="center">About me</h3>
 <hr>
